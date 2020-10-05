@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cbad9aa-697a-4fdc-aebc-8e29d63b3bf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/formdongian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google.html" beforeDir="false" afterPath="$PROJECT_DIR$/google.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <updated>1601860929602</updated>
       <workItem from="1601860930682" duration="6145000" />
       <workItem from="1601872130746" duration="70000" />
-      <workItem from="1601872217523" duration="5591000" />
+      <workItem from="1601872217523" duration="9522000" />
     </task>
     <servers />
   </component>
