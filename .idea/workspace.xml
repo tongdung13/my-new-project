@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cbad9aa-697a-4fdc-aebc-8e29d63b3bf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ui.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dc.html" beforeDir="false" afterPath="$PROJECT_DIR$/dc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,8 @@
       <updated>1601860929602</updated>
       <workItem from="1601860930682" duration="6145000" />
       <workItem from="1601872130746" duration="70000" />
-      <workItem from="1601872217523" duration="15412000" />
+      <workItem from="1601872217523" duration="15691000" />
+      <workItem from="1601896417330" duration="3244000" />
     </task>
     <servers />
   </component>
@@ -88,6 +87,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601865339261">
