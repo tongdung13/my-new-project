@@ -5,10 +5,11 @@
     <title>ja</title>
 </head>
 <body>
-<button type="button" onclick="shwMessage()" >Click Me!</button>
+<div id="messageDiv"></div>
+<button type="button" onclick="shwMessage();">Click Me!</button>
 <script>
     function shwMessage() {
-        alert('xin chào!');
+        document.getElementById('messageDiv').innerHTML='xin chào';
     }
 </script>
 </body>
