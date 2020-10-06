@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cbad9aa-697a-4fdc-aebc-8e29d63b3bf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nhung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nhug.html" beforeDir="false" afterPath="$PROJECT_DIR$/nhug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nhg.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +46,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -73,7 +75,7 @@
       <workItem from="1601896417330" duration="12692000" />
       <workItem from="1601945442598" duration="9773000" />
       <workItem from="1601957106066" duration="3407000" />
-      <workItem from="1601965806197" duration="2173000" />
+      <workItem from="1601965806197" duration="2717000" />
     </task>
     <servers />
   </component>
