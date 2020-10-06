@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cbad9aa-697a-4fdc-aebc-8e29d63b3bf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bieu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/bieu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,8 @@
       <workItem from="1601860930682" duration="6145000" />
       <workItem from="1601872130746" duration="70000" />
       <workItem from="1601872217523" duration="15691000" />
-      <workItem from="1601896417330" duration="11788000" />
+      <workItem from="1601896417330" duration="12692000" />
+      <workItem from="1601945442598" duration="4673000" />
     </task>
     <servers />
   </component>
@@ -94,9 +95,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="446" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601865339261" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601865609318">
+    <state x="562" y="66" key="RollbackChangesDialog" timestamp="1601947962904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601865609318" />
+    <state x="562" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601947962904" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601948036092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601948036092" />
   </component>
 </project>
